@@ -19,3 +19,4 @@ Locating data from text files is a very common and time-consuming operation when
 
 In this guided project we've implemented a MapReduce grep algorithm that locates all matches of a given string within all files in a given folder.
 
+![alt text](https://github.com/Kevin858/Analyzing_Wikipedia_Pages/blob/master/pictures/result_dataframe.png?raw=true)
