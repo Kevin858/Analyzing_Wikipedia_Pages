@@ -11,3 +11,11 @@ We'll implement a simplified version of the grep command-line utility to search 
 
 # Data
 Articles were saved using the last component of their URLs. For example, a page on Wikipedia has the URL structure https://en.wikipedia.org/wiki/Yarkant_County. If we were saving the article with the previous URL, we'd save it to the file Yarkant_County.html. All the data files are in the wiki folder. Note that the files are raw HTML — We don't need to understand HTML for this guided project. We're going to treat those files like plain-text and we won't rely on any of the specific structure of those files.
+
+
+# Learn
+
+Locating data from text files is a very common and time-consuming operation when many files are involved. By using MapReduce, we can significantly reduce the time required to locate that data.
+
+In this guided project we've implemented a MapReduce grep algorithm that locates all matches of a given string within all files in a given folder.
+
